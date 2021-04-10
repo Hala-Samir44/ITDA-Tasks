@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-angular task",
+      "appliesTo": "task 3/angular task/",
+      "type": "launch"
+    }
+  ]
+}
