@@ -1,7 +1,16 @@
+
 .Lor{
-}
-.Lor>div{
     background-image:linear-gradient(to top, gray,white);
     border-radius:0 0 20px 20px;
-    padding:10px;
+    padding:20px;
+    font-size:18px;
+}
+.time{
+    border-bottom: 2px solid rgb(219, 235, 79);
+}
+.yellGre{
+    color:rgb(219, 235, 79);
+}
+.bluGer{
+    color:rgb(35, 212, 153);
 }
